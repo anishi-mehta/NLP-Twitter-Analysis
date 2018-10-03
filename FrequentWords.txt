@@ -1,0 +1,11 @@
+ 						word freq
+gayrights           gayrights  239
+lgbt                     lgbt   76
+gay                       gay   71
+lgbtq                   lgbtq   39
+equality             equality   31
+humanrights       humanrights   24
+rights                 rights   22
+love                     love   20
+history               history   19
+archive               archive   18

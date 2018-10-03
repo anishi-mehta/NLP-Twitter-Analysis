@@ -1,0 +1,64 @@
+findAssocs(dtm, terms = "lgbtq", corlimit = 0.3)
+$lgbtq
+            scientology scientologytheaftermath              amberheard 
+                   0.38                    0.38                    0.35 
+                  derex                   equal                   happy 
+                   0.35                    0.35                    0.35 
+          katebornstein             nohcampaign                     day 
+                   0.35                    0.35                    0.34 
+                  today            amberheardit              humanright 
+                   0.33                    0.32                    0.32 
+                  civil                   delhi                election 
+                   0.30                    0.30                    0.30 
+                 images          notmypresident                    open 
+                   0.30                    0.30                    0.30 
+               pictures         sergesasseville            tcodmlydfmup 
+                   0.30                    0.30                    0.30 
+            tconxmaoynn                     war 
+                   0.30                    0.30 
+
+
+findAssocs(dtm, terms = "gay", corlimit = 0.3)
+$gay
+   closeted destination         men       robby  soundcloud         top 
+        0.3         0.3         0.3         0.3         0.3         0.3 
+     travel 
+        0.3 
+
+
+findAssocs(dtm, terms = "rights", corlimit = 0.4)
+$rights
+       minutes        them       human       learn
+       0.51        0.51        0.46        0.46
+
+
+findAssocs(dtm, terms = "religion", corlimit = 0.3)
+$religion
+          everyones            feminist nohateneededjustlov 
+               1.00                1.00                1.00 
+             normal             respect               means 
+               1.00                1.00                0.58 
+         homosexual             atheist            equality 
+               0.50                0.37                0.35 
+
+
+findAssocs(dtm, terms = "equality", corlimit = 0.3)
+$equality
+                   noh                atheist             amberheard 
+                  0.52                   0.44                   0.40 
+                 equal                  happy            nohcampaign 
+                  0.40                   0.40                   0.40 
+                   day           amberheardit               exmuslim 
+                  0.39                   0.37                   0.37 
+            humanright ourprophetpbuhourpride             tcoqawrewz 
+                  0.37                   0.37                   0.37 
+               twomoms              everyones               feminist 
+                  0.37                   0.35                   0.35 
+   nohateneededjustlov                 normal               religion 
+                  0.35                   0.35                   0.35 
+               respect                 agenda            atheistkhan 
+                  0.35                   0.33                   0.33 
+                 heres             homosexual            humanrights 
+                  0.33                   0.33                   0.33 
+              lesbians                 secret 
+                  0.33                   0.33 

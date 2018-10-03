@@ -1,0 +1,24 @@
+Location: Bombay
+
+                  name
+1      #DeMonetisation
+2             #INDvENG
+3                 Modi
+4      #PrabirInsights
+5          #PoloLeague
+6 #NightOfTheChampions
+                                                 url
+1      http://twitter.com/search?q=%23DeMonetisation
+2             http://twitter.com/search?q=%23INDvENG
+3                   http://twitter.com/search?q=Modi
+4      http://twitter.com/search?q=%23PrabirInsights
+5          http://twitter.com/search?q=%23PoloLeague
+6 http://twitter.com/search?q=%23NightOfTheChampions
+
+                   query   woeid
+1      %23DeMonetisation 2295411
+2             %23INDvENG 2295411
+3                   Modi 2295411
+4      %23PrabirInsights 2295411
+5          %23PoloLeague 2295411
+6 %23NightOfTheChampions 2295411
